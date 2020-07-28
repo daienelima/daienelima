@@ -3,7 +3,6 @@
 ![JS Badge](http://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white "JS Badge")
 
 I'm Daiene Lima.
-
 I'm a full stack developer
 
 - :computer:  Java, Spring Boot, Angular

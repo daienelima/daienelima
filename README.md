@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,nodejs)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,mysql,bootstrap,git,github,postman,docker,terraform,postgres)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,eclipse,mysql,bootstrap,git,github,postman,docker,terraform,postgres,jenkins,jquery,kubernetes,maven)](https://skillicons.dev)<br><br>
 
 ## ☁️ Nuvens
 [![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)<br><br>

@@ -16,9 +16,8 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{daiene.m17@gmail.com}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{SeuEmail})
+[![Gmail Badge](https://img.shields.io/badge/-DaieneLima-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{daiene.m17@gmail.com})
 [![Linkedin: Daiene Lima](https://img.shields.io/badge/-DaieneLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiene-lima/)](https://www.linkedin.com/in/daiene-lima/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/criadoradbugs?style=social)]({Link}) 
 <br><br>
 
 

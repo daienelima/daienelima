@@ -1,30 +1,25 @@
-<h1 align="center">👋 Olá, eu sou Daiene Lima</h1>
+# 👩‍💻 Daiene Lima
 
-<p align="center">
-  💻 Desenvolvedora de Software | Especialista em Java e Arquiteturas na Nuvem
-</p><br>
+Desenvolvedora Backend apaixonada por tecnologia, com foco em construir APIs robustas, performáticas e bem estruturadas. Atuo principalmente com **Java**, **Spring Boot**, **Micronaut**, **Node.js** e também tenho familiaridade com **React** para o frontend.
 
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,c,nodejs)](https://skillicons.dev)<br><br>
+## 🚀 Tecnologias que utilizo
+- ⚙️ Java | Spring Boot | Micronaut
+- 🟨 Node.js | Express
+- 🌐 REST APIs | JWT | Swagger | HATEOAS
+- 💾 PostgreSQL | MySQL | MongoDB
+- ☁️ Docker | GitHub Actions / GitLab | Deploy com Heroku / Railway
+- 🎨 React | HTML | CSS
 
-## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,eclipse,mysql,bootstrap,git,github,postman,docker,terraform,postgres,jenkins,jquery,kubernetes,maven)](https://skillicons.dev)<br><br>
+## 🧩 Projetos em destaque
+- 🔗 [Apirest](https://github.com/daienelima/Apirest) — API RESTful com Java 17, Spring Boot e boas práticas
+- 🔗 [NodeJs](https://github.com/daienelima/NodeJs) — Estrutura base para APIs com Express.js
+- 🔗 [Produtos-front](https://github.com/daienelima/Produtos-front) — Frontend com React para consumo de APIs
 
-## ☁️ Nuvens
-[![My Skills](https://skillicons.dev/icons?i=aws,azure)](https://skillicons.dev)<br><br>
+## 📫 Onde me encontrar
+- [LinkedIn](https://www.linkedin.com/in/daiene-lima/)
+- [Portfólio](https://daienelima.github.io/me/)
+- Email: **daiene.m17@gmail.com**
 
+---
 
-## 📫 Contato
-
-[![Gmail Badge](https://img.shields.io/badge/-DaieneLima-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:{SeuEmail})](mailto:{daiene.m17@gmail.com})
-[![Linkedin: Daiene Lima](https://img.shields.io/badge/-DaieneLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiene-lima/)](https://www.linkedin.com/in/daiene-lima/)
-<br><br>
-
-
-### Recent Acitivies ✨
-![daienelima GitHub stats](https://github-readme-stats.vercel.app/api?username=daienelima&show_icons=true)
-
-<br />
-<br />
-
-
+💡 *Sempre buscando aprender e crescer como desenvolvedora. Vamos nos conectar!*

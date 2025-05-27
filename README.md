@@ -22,4 +22,4 @@ Desenvolvedora Backend apaixonada por tecnologia, com foco em construir APIs rob
 
 ---
 
-💡 *Sempre buscando aprender e crescer como desenvolvedora. Vamos nos conectar!*
+💡 *Sempre buscando aprender e crescer como desenvolvedora.*

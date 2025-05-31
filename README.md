@@ -11,6 +11,7 @@ Desenvolvedora Backend apaixonada por tecnologia, com foco em construir APIs rob
 - 🎨 React | HTML | CSS
 
 ## 🧩 Projetos em destaque
+- 🔗 [Auth Api](https://github.com/daienelima/auth-api) — API de autenticação com Java e Spring Boot utilizando JWT
 - 🔗 [Apirest](https://github.com/daienelima/Apirest) — API RESTful com Java 17, Spring Boot e boas práticas
 - 🔗 [NodeJs](https://github.com/daienelima/NodeJs) — Estrutura base para APIs com Express.js
 - 🔗 [Produtos-front](https://github.com/daienelima/Produtos-front) — Frontend com React para consumo de APIs
